@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{07D5B5F3-393C-46B2-A536-0DEF86503B9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UI", "UI\UI.csproj", "{07D5B5F3-393C-46B2-A536-0DEF86503B9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Screenwriter", "Screenwriter\Screenwriter.csproj", "{C6A7AB7D-23BF-4832-81BE-C3E80B3B9A91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{07D5B5F3-393C-46B2-A536-0DEF86503B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07D5B5F3-393C-46B2-A536-0DEF86503B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07D5B5F3-393C-46B2-A536-0DEF86503B9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6A7AB7D-23BF-4832-81BE-C3E80B3B9A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A7AB7D-23BF-4832-81BE-C3E80B3B9A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A7AB7D-23BF-4832-81BE-C3E80B3B9A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A7AB7D-23BF-4832-81BE-C3E80B3B9A91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
